@@ -1,7 +1,5 @@
 # **Minecraft Clone Game in Java**
 
-<br>
-
 ## **Purpose :**
 
 ##### This is a Minecraft clone made in Java using LWJGL 3. It is a way for me to learn OpenGL and Java as well as a way to have fun. I am not trying to make a perfect clone of Minecraft, but rather a clone that is fun to play and easy to understand. I am also not trying to make a clone that is as good as Minecraft, but rather a clone that is good enough to be fun to play.
