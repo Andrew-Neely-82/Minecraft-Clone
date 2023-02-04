@@ -1,5 +1,3 @@
-import javaGame.res.player;
-
 public class Player {
   private int x, y;
   private int speed;
